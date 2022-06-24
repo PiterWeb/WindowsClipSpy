@@ -2,7 +2,7 @@
 
 ### Description 
 
-💻 This is a terminal tool 🔧 which generates an executable to send your clipboard on each update to an attacker 🏹. Made with educational porpuses
+💻 This is a terminal tool 🔧 which generates an executable to send your clipboard 📋 on each update to another machine ⚙. Made with educational porpuses
 
 ## Purpouse 
 
